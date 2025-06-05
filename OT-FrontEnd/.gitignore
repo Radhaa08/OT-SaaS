@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Build artifacts
+.next/
+
+# Environment variables
+.env
+.env.example
+
+# Package manager lock files
+pnpm-lock.yaml
+package-lock.json
+
+# Editor-specific files
+.vscode/
